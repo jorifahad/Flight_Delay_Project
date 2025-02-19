@@ -14,5 +14,5 @@ Developed an intelligent classification model to predict flight delays over 15 m
 
   
 ![image](https://github.com/user-attachments/assets/1aea283d-afe3-432d-90ca-d6f1ac0a7965)
-![image](https://github.com/user-attachments/assets/1ffc8ed1-4d19-471b-b996-60b03f6af252)
+![image](https://github.com/user-attachments/assets/86512287-ccdd-439d-b4d1-055049e08570)
 
